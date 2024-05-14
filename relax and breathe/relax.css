@@ -44,7 +44,11 @@ video{
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
+<<<<<<< HEAD
     padding: 2rem 2rem;
+=======
+    padding: 3rem 1rem;
+>>>>>>> 1e52b0027e01f887fc3d3ed90b2b8552d14aed53
     display: flex;
     justify-content: space-between;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),
