@@ -28,7 +28,8 @@ h1{
 }
 
 h2{
-    font-size: xx-large;
+    font-size: 35px;
+
 }
 
 video{
@@ -38,13 +39,12 @@ video{
     width: 100%;
 }
 
-.box{
-   
+.box {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.6rem;
-    padding: 1rem 1rem;
+    margin-top: 2rem;
+    padding: 2rem 2rem;
     display: flex;
     justify-content: space-between;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),
@@ -53,14 +53,11 @@ video{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
-  
-
-    
 }
 
- p{
+p {
     width: 67%;
-    font-size: 13px;
+    font-size: 17px;
     margin-top: 0.5rem;
 }
 .right{
@@ -68,20 +65,20 @@ video{
     align-items: end;
 }
 
-.read{
-    font-size: 11.5px;
+.read {
+    font-size: 17px;
     /* border-bottom: 1px solid black; */
     text-decoration: underline;
     color: white;
     margin-top: 0.3rem;
-    
 }
 
-.begin{
+.begin {
     background-color: #824FF1;
     color: white;
-    padding: 2px 25px;
-    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px 31px;
+    border-radius: 7px;
 }
 
 .begin:hover{
