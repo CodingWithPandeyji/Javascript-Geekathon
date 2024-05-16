@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+.slide-out {
+    animation: slideOut 0.5s forwards;
+}
+
+@keyframes slideOut {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+.rotate-icon {
+    transform: rotate(180deg);
+} */
+
+
+.hello{
+    background-color: #101b20;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 20.5px;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .hello a{
+    padding: 0px 5px ;
+    color: white;
+    
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .fa-solid{
+    margin-right: 0.4rem;
+   text-align: center;
+    font-size: large;
+    
+  }
+  
+  .fa-brands{
+    margin-right: 0.4rem;
+   text-align: center;
+    font-size: large;
+  }
+  
+  .hello a:hover{
+    background-color: #FD9E5C;
+    color: #0E1E25;
+  }
+  
